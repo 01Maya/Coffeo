@@ -1,26 +1,28 @@
-# 🍰 Sweet Cakes – Home-Baked Treats Website
+# ☕ Coffeo – Specialty Coffee Website
 
-A modern, elegant, and responsive bakery website showcasing **handcrafted cakes and cupcakes**. Built with **Next.js, Tailwind CSS, Framer Motion, and ShadCN UI**, this project highlights smooth animations, interactive sections, and a pastel-themed design.
+A modern, minimal, and responsive coffee website showcasing **premium, handpicked coffee beans and products**. Built with **Next.js, Tailwind CSS, Framer Motion, and ShadCN UI**, this project highlights elegant animations, interactive sections, and a warm, earthy design theme.
 
 ---
 
 ## ✨ Features
-- 🎂 Beautiful landing page with hero section  
-- 🖼️ Gallery of latest creations & signature cakes  
-- 📊 Stats counter for journey milestones  
-- 🍫 Flavor selection with icons  
-- 👩‍🍳 Baking process explained in steps  
-- 📱 Fully responsive design with pastel gradients  
+- ☕ Engaging landing page with hero section  
+- 🏆 “Our Process” section explaining coffee selection, roasting, and packaging  
+- 🛍️ Weekend special products & featured coffee blends  
+- 📦 Eco-friendly and stylish packaging details  
+- 🌿 Focus on sustainability and quality  
+- 📱 Fully responsive design with earthy pastel tones  
 - 🖱️ Smooth scroll navigation & hover animations  
-- 💌 Contact form with email & phone details  
+- 💌 Contact section with email, phone, and social links  
 
 ---
 
 ## 🛠 Tech Stack
 - **Next.js** – React framework for modern web apps  
 - **Tailwind CSS** – Utility-first styling  
-- **Framer Motion** – Animations & transitions  
-- **ShadCN UI** – Modern UI components  
+- **Framer Motion** – Animations & smooth transitions  
+- **ShadCN UI** – Modern, reusable UI components  
+
+---
 
 ---
 
