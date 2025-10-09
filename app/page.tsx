@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import { ShoppingCart, User, Heart, Menu, ChevronRight, X } from 'lucide-react'
 import { useState, useRef, useEffect } from 'react'
-import { Users, Star, Package } from 'lucide-react'
+import { Users, Star, Package, Waves, Sparkles } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel"
 
@@ -340,7 +340,7 @@ export default function Homepage() {
                   )}
                   {step === 'Roasting' && (
                     <span className="inline-block bg-[#FDF5F3] rounded-full p-3 shadow">
-                      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#8B5E3C" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2C12 2 7 7 7 12a5 5 0 0 0 10 0c0-5-5-10-5-10z"/><path d="M12 22v-4"/></svg>
+                      <Waves className="w-10 h-10 text-[#8B5E3C]" />
                     </span>
                   )}
                   {step === 'Packaging' && (
@@ -386,7 +386,7 @@ export default function Homepage() {
                   description: 'Join our passionate coffee community and share your love for coffee.'
                 },
                 {
-                  icon: Star,
+                  icon: Sparkles,
                   title: 'Premium Quality',
                   description: 'We source only the finest coffee beans from sustainable farms.'
                 },
