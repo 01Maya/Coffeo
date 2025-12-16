@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Coffeo',
+  title: 'Coffeo☕',
   description: 'A modern, minimal, and responsive coffee website showcasing premium, handpicked coffee beans and products.',
 }
 
