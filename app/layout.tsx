@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Coffeo☕',
-  description: 'A modern, minimal, and responsive coffee website showcasing premium, handpicked coffee beans and products.',
+  description: 'A modern, minimal, and responsive coffee website showcasing premium, handpicked coffee beans and products.✨',
 }
 
 export default function RootLayout({
