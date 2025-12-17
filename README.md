@@ -24,7 +24,7 @@ A modern, minimal, and responsive coffee website showcasing **premium, handpicke
 
 ---
 
-## Preview
+## ☕ Preview
 
 https://coffeo-brew.vercel.app/
 
