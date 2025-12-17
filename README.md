@@ -33,3 +33,7 @@ https://coffeo-brew.vercel.app/
 ## ✨ Screenshot
 
 ![Image](https://github.com/user-attachments/assets/306c4943-cd40-4aab-aa52-c3d1500dbe36)
+
+---
+
+
