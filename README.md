@@ -38,6 +38,24 @@ https://coffeo-brew.vercel.app/
 
 ---
 
+## 🔧 Installation & Setup  
+
+```bash
+1️⃣ Clone the repository
+   git clone https://github.com/yourusername/luxeblog.git
+
+2️⃣ Navigate into the project folder
+   cd luxeblog
+
+3️⃣ Install dependencies
+   npm install
+
+4️⃣ Run the development server
+   npm run dev
+
+
+```
+
 Brew happy ☕️ and make good things.
 
 ---
