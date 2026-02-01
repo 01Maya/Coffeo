@@ -45,7 +45,7 @@ https://coffeo-brew.vercel.app/
    git clone https://github.com/yourusername/coffeo.git
 
 2️⃣ Navigate into the project folder
-   cd luxeblog
+   cd coffeo
 
 3️⃣ Install dependencies
    npm install
