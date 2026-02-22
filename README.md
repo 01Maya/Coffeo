@@ -1,6 +1,6 @@
 
 
-# ☕ Coffeo – Specialty Coffee Website
+# ☕ Coffeo – Specialty Coffee Website ✨
 
 A modern, minimal, and responsive coffee website showcasing **premium, handpicked coffee beans and products**. Built with **Next.js, Tailwind CSS, Framer Motion, and ShadCN UI**, this project highlights elegant animations, interactive sections, and a warm, earthy design theme.
 
