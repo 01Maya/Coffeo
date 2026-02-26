@@ -58,7 +58,7 @@ https://coffeo-brew.vercel.app/
 
 ---
 
-Brew happy ☕️ and make good things!✨
+🌟Brew happy ☕️ and make good things!✨
 
 ---
 
